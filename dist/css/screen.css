@@ -1,0 +1,14 @@
+/*----header----*/
+.logo-mini { text-align: center; }
+
+.logo-mini img { width: 40px; }
+
+.logo-lg { text-align: left; }
+
+.logo-lg img { width: 75px; }
+
+.skin-blue .main-header .logo { background: #1c2b36; }
+
+.skin-blue .main-header .logo:hover { background: inherit; }
+
+/*---end-header----*/
