@@ -21,8 +21,64 @@
 
 .header_right_nav .form_left { padding-left: 30%; margin-top: 2px; }
 
+.skin-blue .main-header .navbar .sidebar-toggle:hover { background: none; }
+
 /*---end-header----*/
 /*---sidebar----*/
-.sidebar-menu_left { padding: 100px 0 0 0; }
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side { background: #1c2b36; }
+
+.sidebar-menu_left { padding: 40px 0 0 0; }
+
+.custom_icon { width: 15px; height: 15px; display: inline-block; margin: 0 4px 0 0; }
+
+.custom_icon.plant { background: url(../img/factory.png) no-repeat center; background-size: 100%; }
+
+.custom_icon.books { background: url(../img/books.png) no-repeat center; background-size: 100%; }
+
+.letter_item { width: 22px; height: 22px; line-height: 15px; margin-top: -12px !important; text-align: center; padding: 0; border: 3px solid #fff; border-radius: 50%; }
+
+.letter_item.bg-green { border-color: #25553c; }
+
+.letter_item.bg-yellow { border-color: #5e5a28; }
 
 /*---end-sidebar----*/
+/*---content----*/
+.content-header { box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.15); background: #f5f7f7 !important; padding-bottom: 20px; }
+
+.content-header h1 { font-size: 20px !important; color: #555555 !important; }
+
+.content-header h1 small { display: block; color: #cbcbcb !important; font-size: 16px !important; }
+
+.top_title { color: #000; font-size: 23px; padding: 25px; border-bottom: 1px solid #ececec; }
+
+.top_title .red { color: #f94923; }
+
+.top_title .green { color: #39b54a; }
+
+.top_title span, .top_title i { padding: 0 25px 0 0; font-size: 28px; }
+
+.custom_block { margin-bottom: 17px; }
+
+.custom_block > div > article { background: #fff; }
+
+.custom_block > div > article .box-body { padding: 35px !important; }
+
+.custom_block > div > article p { font-size: 19px; color: #414141; padding-bottom: 35px; }
+
+.custom_block > div > article a i { margin-left: 10px; }
+
+h3 { font-size: 21px; }
+
+h3 small { color: #cdcdcd; }
+
+.text-muted { color: #b5b5b5; }
+
+.btn-success { background: #8bc34a; border-color: #8bc34a; }
+
+.box-body { padding: 10px 35px; }
+
+.list-group { margin-top: 30px; }
+
+.list-group-item { border-color: #f8f8f8; }
+
+/*---end-content----*/
