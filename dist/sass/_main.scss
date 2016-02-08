@@ -189,3 +189,24 @@ h3 small{color: #cdcdcd;}
 }
 
 /*------end-news-------*/
+
+.sidebar-mini.sidebar-collapse .sidebar-menu>li>a>.pull-right.letter_item{
+    display: block !important;
+    right: -3px !important;
+    top: 15px !important;
+}	
+.btn-success{
+	background:#39b54a;
+	border-color: #39b54a;
+}
+.btn-primary{
+	background:#236af9;
+	border-color: #236af9;
+}	
+
+ .top_title i{
+	img{
+		position: relative;
+		left: 11px;
+	}
+}
